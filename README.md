@@ -1,2 +1,18 @@
-# redux-crud-kit
-A React, Redux &amp; Webpack CRUD application template
+# Redux CRUD Kit
+
+A starter kit for building CRUD web applications
+
+
+## Tools Used
+
+### React
+
+For UI Components
+
+### Redux
+
+For application state management
+
+### Webpack
+
+For bundling application code
